@@ -1,0 +1,2 @@
+Error: Unknown column 'image' in 'field list'
+Error: Column 'create_by' cannot be null

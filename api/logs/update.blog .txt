@@ -1,0 +1,3 @@
+Error: Unknown column 'image' in 'field list'
+ReferenceError: removeF is not defined
+ReferenceError: removeF is not defined

@@ -1,0 +1,6 @@
+Error: Unknown column 'image' in 'field list'
+Error: Unknown column 'image' in 'field list'
+Error: Unknown column 'image' in 'field list'
+Error: Unknown column 'image' in 'field list'
+Error: Column 'image' cannot be null
+Error: Column 'create_by' cannot be null
